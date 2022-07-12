@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_app=self.webpackChunkreact_app||[]).push([[74],{74:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});n(791);var r=n(504),s=n(184);var c=function(){return(0,s.jsx)("div",{className:"home",children:(0,s.jsxs)("div",{className:"intro",children:[(0,s.jsx)("h2",{children:"BUILD A RESUME THAT WILL GET YOU HIRED"}),(0,s.jsx)(r.rU,{to:"/build/getting-started",children:(0,s.jsx)("button",{children:"Let's Build A Resume"})})]})})}}}]);
+//# sourceMappingURL=74.cb274449.chunk.js.map
